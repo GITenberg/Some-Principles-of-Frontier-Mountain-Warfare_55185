@@ -1,11 +1,16 @@
 _repo: Some-Principles-of-Frontier-Mountain-Warfare_55185
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55185-h/images/cover.jpg
 creator:
   author:
     agent_name: Bird, W. D. (Wilkinson Dent)
     gutenberg_agent_id: '48215'
     url: http://www.gutenberg.org/2009/agents/48215
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55185#Some-Principles-of-Frontier-Mountain-Warfare
 gutenberg_issued: '2017-07-24'
 gutenberg_type: Text
 identifiers:
